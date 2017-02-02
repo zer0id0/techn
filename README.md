@@ -1,4 +1,4 @@
-# techn
+# tictactoe
 working prog
 
 <!DOCTYPE html>
